@@ -681,10 +681,10 @@ domutils@^2.4.3, domutils@^2.4.4:
     domelementtype "^2.0.1"
     domhandler "^4.0.0"
 
-dotenv@^8.2.0:
-  version "8.2.0"
-  resolved "https://registry.yarnpkg.com/dotenv/-/dotenv-8.2.0.tgz#97e619259ada750eea3e4ea3e26bceea5424b16a"
-  integrity sha512-8sJ78ElpbDJBHNeBzUbUVLsqKdccaa/BXF1uPTw3GrvQTBgrQrtObr2mUrE38vzYd8cEv+m/JBfDLioYcfXoaw==
+dotenv@^13.0.0:
+  version "13.0.0"
+  resolved "https://registry.yarnpkg.com/dotenv/-/dotenv-13.0.0.tgz#d8240508b5d9675ebc46881888b43a36666c630c"
+  integrity sha512-eVAD2DMFP/5uE1NIOu9nxzjvmDDPiRqEP3nSHS+Vvs/S8fk4m1AX4eh1QIs95N2wBc8mvXiOQKZGtGywlIVlng==
 
 emoji-regex@^8.0.0:
   version "8.0.0"
