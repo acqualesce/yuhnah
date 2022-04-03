@@ -703,10 +703,15 @@ enquirer@^2.3.5:
   dependencies:
     ansi-colors "^4.1.1"
 
-entities@^2.0.0, entities@^2.2.0:
+entities@^2.0.0:
   version "2.2.0"
   resolved "https://registry.yarnpkg.com/entities/-/entities-2.2.0.tgz#098dc90ebb83d8dffa089d55256b351d34c4da55"
   integrity sha512-p92if5Nz619I0w+akJrLZH0MX0Pb5DX39XOwQTtXSdQQOaYH03S1uIQp4mhOZtAXrxq4ViO67YTiLBo2638o9A==
+
+entities@^4.1.1:
+  version "4.1.1"
+  resolved "https://registry.yarnpkg.com/entities/-/entities-4.1.1.tgz#fc6ad5c3b77898165a143356db12d2f62eb1feb4"
+  integrity sha512-AxszXDqnHj5aVzjBpofDDfXX9zC8gugYwJxEYDdA52d6dqoxPKfNDBFxZyIZrkaqUtNy/ip/knBm6mRJed7p1A==
 
 entities@~2.1.0:
   version "2.1.0"
